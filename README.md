@@ -1,6 +1,6 @@
 ### Hi I am Jhanavi! 👋
 
-<img align="right" width="300" height="300" src="https://github.com/jhanaviB/jhanaviB/blob/main/Picture.jpg?raw=true">
+<img align="right" width="300" height="300" src="https://github.com/jhanaviB/jhanaviB/blob/main/Picture.png?raw=true">
 
 <!--
 **jhanaviB/jhanaviB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
