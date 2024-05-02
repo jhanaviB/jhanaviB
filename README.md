@@ -16,9 +16,11 @@ Here are some ideas to get you started:
 -->
 I am a full-stack software developer with over 3 years of experience. I am enthusiastic about learning new skills and applying them to new problems everyday!
 
-Currently, I am pursuing my Master's in Computer Science degree from Rutgers University and working as a Part-Time Lecturer.
+Currently, I am pursuing my Master's in Computer Science degree from Rutgers University. I will be graduating this May and am actively looking for full-time roles since then.
 
-Some technologies I enjoy working with: Java, Python, Spring Boot, React, ZK framework, AWS.
+Some technologies I enjoy working with are Java, Python, Spring Boot, React, ZK framework, AWS.
 
+Connect with me on <a href="https://www.linkedin.com/in/jhanavibehl/">LinkedIn</a>! or email me on <a href="mailtojhanavibehl@gmail.com">Mail 📫:</a> :girl:
 
-Connect with me on <a href="https://www.linkedin.com/in/jhanavibehl/">LinkedIn</a>!
+► /play whoomp► 
+
