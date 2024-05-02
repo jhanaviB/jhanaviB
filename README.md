@@ -25,6 +25,6 @@ Some technologies I enjoy working with are Java, Python, Spring Boot, React, ZK 
 Connect with me on <a href="https://www.linkedin.com/in/jhanavibehl/">LinkedIn</a>! or email me on <a href="mailto:jhanavibehl@gmail.com">Mail 📫:</a> :girl:
 
 
-![Jhanavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhanaviB&show_icons=true&bg_color=00000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhanaviB&hide_progress=true)
 
 
