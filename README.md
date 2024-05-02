@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I am Jhanavi! 👋
 
 <!--
 **jhanaviB/jhanaviB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am a full-stack software developer with over 3 years of experience. I am enthusiastic about expanding my tech stack and applying my skills to new problems! 
+Currently, I am pursuing my Master's in Computer Science degree from Rutgers University. I am set to graduate in May and am actively looking for full-time roles since then.
+Some technologies I enjoy working with: Java, Python, Spring Boot, React, ZK framework, AWS.
+
+
+Connect with me on <a href="https://www.linkedin.com/in/jhanavibehl/">LinkedIn</a>!
