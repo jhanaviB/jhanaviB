@@ -20,7 +20,7 @@ Currently, I am pursuing my Master's in Computer Science degree from Rutgers Uni
 
 Some technologies I enjoy working with are Java, Python, Spring Boot, React, ZK framework, AWS.
 
-Connect with me on <a href="https://www.linkedin.com/in/jhanavibehl/">LinkedIn</a>! or email me on <a href="mailtojhanavibehl@gmail.com">Mail 📫:</a> :girl:
+Connect with me on <a href="https://www.linkedin.com/in/jhanavibehl/">LinkedIn</a>! or email me on <a href="mailto:jhanavibehl@gmail.com">Mail 📫:</a> :girl:
 
 ► /play whoomp► 
 
