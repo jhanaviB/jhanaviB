@@ -22,5 +22,4 @@ Some technologies I enjoy working with are Java, Python, Spring Boot, React, ZK 
 
 Connect with me on <a href="https://www.linkedin.com/in/jhanavibehl/">LinkedIn</a>! or email me on <a href="mailto:jhanavibehl@gmail.com">Mail 📫:</a> :girl:
 
-► /play whoomp► 
 
