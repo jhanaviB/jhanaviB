@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 I am a full-stack software developer with over 3 years of experience. I am enthusiastic about expanding my skills and applying them to challenging problems!
 
-Currently, I am pursuing my Master's in Computer Science degree :books: from Rutgers University. I will be graduating this May and am actively looking for full-time roles since then.
+Currently, I am pursuing my Master's in Computer Science degree :books: from Rutgers University. I will be graduating this May and am actively looking for full-time roles starting then.
 
 Some technologies I enjoy working with: Java, Python, Spring Boot, React, MySQL, MongoDB and ZK framework.
 
