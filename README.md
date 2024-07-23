@@ -20,7 +20,7 @@ I am a full-stack software developer with over 3 years of experience. I am enthu
 
 I recently graduated with a Master's in Computer Science degree :books: from Rutgers University and am actively looking for full-time backend/ full-stack developer roles.
 
-Some technologies I enjoy working with: Java, Python, Spring Boot, React, MySQL, MongoDB and ZK framework.
+Some technologies I enjoy working with: Java, Python, Spring Boot, React, MySQL, AWS and ZK framework.
 
 Connect with me on <a href="https://www.linkedin.com/in/jhanavibehl/">LinkedIn</a>!, email me on <a href="mailto:jhanavibehl@gmail.com">Mail 📫:</a> :girl:
 or send a message to me via my <a href="https://jhanavibehl.netlify.app/"> Personal Website </a>
