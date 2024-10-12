@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a full-stack software developer with over 3 years of experience. I am enthusiastic about expanding my skills and applying them to challenging problems!
+I am a full-stack software developer with over 3 years of experience. 
 
-I recently graduated with a Master's in Computer Science degree :books: from Rutgers University and am actively looking for full-time backend/ full-stack developer roles.
+I hold a Master's degree in Computer Science from Rutgers University and am actively looking for full-time backend/ full-stack developer roles.
 
-Some technologies I enjoy working with: Java, Python, Spring Boot, React, MySQL, AWS and ZK framework.
+Some technologies I enjoy working with: Java, Python, Spring Boot, React, MySQL and AWS.
 
 Connect with me on <a href="https://www.linkedin.com/in/jhanavibehl/">LinkedIn</a>!, email me on <a href="mailto:jhanavibehl@gmail.com">Mail 📫:</a> :girl:
 or send a message to me via my <a href="https://jhanavib.github.io/portfolio/"> Personal Website </a>
