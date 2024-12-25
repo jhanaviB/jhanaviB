@@ -18,9 +18,7 @@ Here are some ideas to get you started:
 -->
 I am a full-stack software developer with over 3 years of experience. 
 
-I hold a Master's degree in Computer Science from Rutgers University and am actively looking for full-time backend/ full-stack developer roles.
-
-Some technologies I enjoy working with: Java, Python, Spring Boot, React, and MySQL.
+I am currently working on builing device management software as an 'Associate Software Engineer' at Schweitzer Engineering Laboratories. I also hold a Master's degree in Computer Science from Rutgers University and am interested in all things tech :)
 
 Connect with me on <a href="https://www.linkedin.com/in/jhanavibehl/">LinkedIn</a>!, email me on <a href="mailto:jhanavibehl@gmail.com">Mail 📫:</a> :girl:
 or send a message to me via my <a href="https://jhanavib.github.io/portfolio/"> Personal Website </a>
