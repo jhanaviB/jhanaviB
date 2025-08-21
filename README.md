@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a full-stack software developer with over 3 years of experience. 
+I am a full-stack software developer with 4 years of experience. 
 
 I am currently working on builing device management software as an 'Associate Software Engineer' at Schweitzer Engineering Laboratories. I also hold a Master's degree in Computer Science from Rutgers University and am interested in all things tech :)
 
