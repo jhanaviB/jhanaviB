@@ -1,4 +1,4 @@
-### Hi I am Jhanavi! 👋
+### Hi, I am Jhanavi! :)
 
 <img align="right"  height = "300" width="300" src="https://github.com/jhanaviB/jhanaviB/blob/main/Picture.png?raw=true">
 
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 I am a full-stack software developer with 4 years of experience. 
 
-I am currently working as an 'Associate Software Engineer' at Schweitzer Engineering Laboratories. I hold a Master's degree in Computer Science from Rutgers University and did my Bachelor's from Dharmsinh Desai University in Gujarat, India. These days I'm working on building device management software, primarily using- Java, React and Docker :)
+I am currently working as an 'Associate Software Engineer' at Schweitzer Engineering Laboratories. I hold a Master's degree in Computer Science from Rutgers University and did my Bachelor's from Dharmsinh Desai University in Gujarat, India. These days I'm working on building device management software, primarily using- Java, GraphQL, React and Docker :)
 
 Connect with me on <a href="https://www.linkedin.com/in/jhanavibehl/">LinkedIn</a>!, email me on <a href="mailto:jhanavibehl@gmail.com">Mail 📫:</a> :girl:
 or send a message to me via my <a href="https://jhanavib.github.io/portfolio/"> Personal Website </a>
