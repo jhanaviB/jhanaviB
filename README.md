@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="Picture.png" alt="My Image" width="300"/>
+
 I am a software developer with over 4 years of experience. I'm currently working on building device management software at Schweitzer Engineering Laboratories. I hold a Master's degree in Computer Science from Rutgers University and did my Bachelor's from Dharmsinh Desai University in Gujarat, India. 
 
 Connect with me on <a href="https://www.linkedin.com/in/jhanavibehl/">LinkedIn</a>!, email me on <a href="mailto:jhanavibehl@gmail.com">Mail 📫:</a> :girl:
