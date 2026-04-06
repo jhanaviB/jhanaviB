@@ -1,6 +1,6 @@
 ### Hi, I am Jhanavi! :)
 
-<!--<img align="right"  height = "300" width="300" src="https://github.com/jhanaviB/jhanaviB/blob/main/Picture.png?raw=true">--->
+<img align="right"  height = "300" width="300" src="https://github.com/jhanaviB/jhanaviB/blob/main/Picture.png?raw=true">
 
 <!--
 **jhanaviB/jhanaviB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="Picture.png" alt="My Image" width="300"/>
 
 I am a software developer with over 4 years of experience. I'm currently working on building device management software at Schweitzer Engineering Laboratories. I hold a Master's degree in Computer Science from Rutgers University and did my Bachelor's from Dharmsinh Desai University in Gujarat, India. 
 
