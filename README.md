@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 I am a software developer with over 4 years of experience. I'm currently working on building device management software at Schweitzer Engineering Laboratories. I hold a Master's degree in Computer Science from Rutgers University and did my Bachelor's from Dharmsinh Desai University in Gujarat, India. 
 
-Connect with me on <a href="https://www.linkedin.com/in/jhanavibehll/">LinkedIn</a>!, email me on <a href="mailto:jhanavibehl@gmail.com">Mail 📫:</a> :girl:
+Connect with me on <a href="https://www.linkedin.com/in/jhanavibehll/">LinkedIn</a>!, email me on <a href="mailto:jhanavibehl@gmail.com">Mail</a>
 or send a message to me via my <a href="https://jhanavib.github.io/portfolio/"> Personal Website </a>
 <!-- I'm currently working on building device management software in my role at Schweitzer Engineering Laboratories. I hold a Master's degree in Computer Science from Rutgers University and did my Bachelor's from Dharmsinh Desai University in Gujarat, India. 
 
