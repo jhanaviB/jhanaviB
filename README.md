@@ -22,7 +22,8 @@ I am a software engineer with close to 5 years of experience working on backend 
 Connect with me on <a href="https://www.linkedin.com/in/jhanavibehl/"> linkedIn</a>,  <a href="mailto:jhanavibehl@gmail.com">email</a> me
 or send me a message via my <a href="https://jhanavib.github.io/portfolio/"> personal website </a>
 
-Here's my <a href="https://medium.com/@jhanavibehl"> medium </a> page, if you're interested in checking it out
+Here's my <a href="https://medium.com/@jhanavibehl"> medium </a> page, if you're interested in checking it out.
+
 <!-- I'm currently working on building device management software in my role at Schweitzer Engineering Laboratories. I hold a Master's degree in Computer Science from Rutgers University and did my Bachelor's from Dharmsinh Desai University in Gujarat, India. 
 
 Connect with me on <a href="https://www.linkedin.com/in/jhanavibehl/">LinkedIn</a>!, email me on <a href="mailto:jhanavibehl@gmail.com">Mail 📫:</a> :girl:
