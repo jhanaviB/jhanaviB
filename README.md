@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 I am a software developer with close to 5 years of experience and a Master's degree in CS from Rutgers University. I'm currently working on building device management software at Schweitzer Engineering Laboratories.  
 
-Connect with me on <a href="https://www.linkedin.com/in/jhanavibehll/">LinkedIn</a>!, email me on <a href="mailto:jhanavibehl@gmail.com">Mail</a>
+Connect with me on <a href="https://www.linkedin.com/in/jhanavibehl/">LinkedIn</a>!, email me on <a href="mailto:jhanavibehl@gmail.com">Mail</a>
 or send a message to me via my <a href="https://jhanavib.github.io/portfolio/"> Personal Website </a>
 
 Check out my medium <a href="https://jhanavib.github.io/portfolio/"> page!
